@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+## I'm Vasilchenko Ksenya 
+👩‍💻 Data scientist with a background in microbiology and genetics  
+🔬 Discovered the path to Data Science after an internship in a genetics lab, where I learned about the field  
+📚 Completed a Data Science course at Yandex Practicum, gaining hands-on experience in Python, ML, and data analysis  
+💡 Passionate about continuous learning, currently participating in Kaggle competitions and enhancing skills through pet projects  
+🔍 Knowledgeable in probability theory, statistics, Python libraries (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), as well as machine learning tools (CatBoost, LightGBM, XGBoost), time series analysis (Statsmodels, Prophet), and deep learning frameworks (TensorFlow, Keras, PyTorch)  
+🌱 Actively seeking opportunities to grow and apply my skills in Data Science
 <!--
 **KsenyaVasilchenko/KsenyaVasilchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
